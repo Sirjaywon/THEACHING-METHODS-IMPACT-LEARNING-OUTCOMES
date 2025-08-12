@@ -29,3 +29,12 @@ Conduct post-hoc tests (e.g., Tukey’s HSD) if ANOVA shows significant results.
 
 **DATA SOURCE**:
 The data was given by a text data in a pdf format which was downlaoded and processed for analysis
+
+**TOOLS**
+_**SPSS**_
+
+- Descriptive Statistics Tool – to compute mean, standard deviation, standard error, confidence intervals, minimum, and maximum scores for each teaching method.
+- One-Way ANOVA Procedure – to test whether there were statistically significant differences in mean scores among the three teaching methods.
+- Tukey’s Honestly Significant Difference (HSD) Post Hoc Test – to perform pairwise comparisons and identify which specific teaching methods differed significantly from each other.
+- Homogeneous Subsets Output – to group teaching methods with no significant mean differences for easier interpretation.
+  

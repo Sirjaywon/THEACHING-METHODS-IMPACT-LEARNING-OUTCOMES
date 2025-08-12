@@ -31,6 +31,7 @@ Conduct post-hoc tests (e.g., Tukey’s HSD) if ANOVA shows significant results.
 The data was given by a text data in a pdf format which was downlaoded and processed for analysis
 
 **TOOLS**
+
 _**SPSS**_
 
 - Descriptive Statistics Tool – to compute mean, standard deviation, standard error, confidence intervals, minimum, and maximum scores for each teaching method.

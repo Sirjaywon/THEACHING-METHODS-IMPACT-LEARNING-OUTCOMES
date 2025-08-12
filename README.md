@@ -32,10 +32,13 @@ The data was given by a text data in a pdf format which was downlaoded and proce
 
 **TOOLS**
 
-_**SPSS**_
+_SPSS_
 
 - Descriptive Statistics Tool – to compute mean, standard deviation, standard error, confidence intervals, minimum, and maximum scores for each teaching method.
 - One-Way ANOVA Procedure – to test whether there were statistically significant differences in mean scores among the three teaching methods.
 - Tukey’s Honestly Significant Difference (HSD) Post Hoc Test – to perform pairwise comparisons and identify which specific teaching methods differed significantly from each other.
 - Homogeneous Subsets Output – to group teaching methods with no significant mean differences for easier interpretation.
   
+**EXPLORATORY DATA ANALYSIS (EDA)**
+
+The dataset includes test scores from 60 students split equally among three teaching methods (A, B, C). Mean scores were highest for Method C (92.00), followed by Method A (82.50) and Method B (77.50). Score ranges were narrow with no extreme outliers, and Method C showed slightly less variability. The 95% confidence intervals suggested non-overlapping means, indicating potential significant differences. Initial performance ranking: C > A > B

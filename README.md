@@ -27,3 +27,5 @@ Use One-Way ANOVA to compare mean scores across teaching methods.
 Conduct post-hoc tests (e.g., Tukey’s HSD) if ANOVA shows significant results.
 - Ethical Considerations: Obtain consent from participants, ensure confidentiality of data, and follow institutional research ethics guidelines.
 
+**DATA SOURCE**:
+The data was given by a text data in a pdf format which was downlaoded and processed for analysis

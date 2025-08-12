@@ -5,6 +5,7 @@
 To determine if there is a significant difference in student performance across different teaching methods.
 
 **SCOPE**
+
 The analysis covers:
 - Evaluates student performance under different teaching methods.
 - Compares academic outcomes across the selected teaching methods.
